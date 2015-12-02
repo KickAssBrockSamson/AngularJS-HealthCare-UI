@@ -1,6 +1,4 @@
-<a target="_blank href="http://kickassbrocksamson.github.io/AngularJS-HealthCare-UI">Link to Functional Example</a>
-
-<a target="_blank" href="http://kickassbrocksamson.github.io/Accessibility">Eaxmple Link</a>
+<a target="_blank" href="http://kickassbrocksamson.github.io/AngularJS-HealthCare-UI">Link to Functional Example</a>
 
 # How to instructions:
 
